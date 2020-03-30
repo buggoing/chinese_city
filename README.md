@@ -1,5 +1,5 @@
 # 中国城市中英文对照
-Chinese city in both Chinese and English 
+China's cities in both Chinese and English 
 
 ## city_en.json 
 English name as key
