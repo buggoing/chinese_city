@@ -15,8 +15,8 @@ type City struct {
 	Province   string `json:"province"`
 	ProvinceEn string `json:"province_en"`
 	Tier       string `json:"tier"`
-	Longitude  string `json:"lat"`
-	Latitude   string `json:"lng"`
+	Longitude  string `json:"lng"`
+	Latitude   string `json:"lat"`
 	Area       string `json:"area"`
 	City       string `josn:"city"`
 }
@@ -43,7 +43,7 @@ func main() {
 	res := make(map[string]City, 0)
 	for k, city := range cities {
 		for _, cityGeo := range citiesGeo {
-			if city.Admaster == cityGeo.City+cityGeo.Area || city.Admaster == cityGeo.Province+cityGeo.Area {
+			if city.Admaster == cityGeo.Area || city.Admaster == cityGeo.City+cityGeo.Area || city.Admaster == cityGeo.Province+cityGeo.Area {
 				city.Longitude = cityGeo.Longitude
 				city.Latitude = cityGeo.Latitude
 				cities[k] = city
