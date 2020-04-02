@@ -5,7 +5,9 @@
         "name_en": "Qitaihe",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "45.77630032154785",
+        "lng": "131.01154459102744"
     },
     "三亚": {
         "name": "三亚",
@@ -13,7 +15,9 @@
         "name_en": "Sanya",
         "province": "海南",
         "province_en": "Hainan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "18.258736291747855",
+        "lng": "109.51855670139908"
     },
     "三明": {
         "name": "三明",
@@ -21,7 +25,9 @@
         "name_en": "Sanming",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "3"
+        "tier": "3",
+        "lat": "26.269736515991838",
+        "lng": "117.64552116782143"
     },
     "三门峡": {
         "name": "三门峡",
@@ -29,7 +35,9 @@
         "name_en": "Sanmenxia",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.778327249459984",
+        "lng": "111.2065332238741"
     },
     "上海": {
         "name": "上海",
@@ -37,7 +45,9 @@
         "name_en": "Shanghai",
         "province": "上海",
         "province_en": "Shanghai",
-        "tier": "1"
+        "tier": "1",
+        "lat": "31.235929042252014",
+        "lng": "121.48053886017651"
     },
     "上饶": {
         "name": "上饶",
@@ -45,7 +55,9 @@
         "name_en": "Shangrao",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "3"
+        "tier": "3",
+        "lat": "28.460625921851733",
+        "lng": "117.94945960312224"
     },
     "东莞": {
         "name": "东莞",
@@ -53,7 +65,9 @@
         "name_en": "Dongguan",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "23.02730841164339",
+        "lng": "113.75842045787648"
     },
     "东营": {
         "name": "东营",
@@ -61,7 +75,9 @@
         "name_en": "Dongying",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "37.43964182632334",
+        "lng": "118.68138493513693"
     },
     "中卫": {
         "name": "中卫",
@@ -69,7 +85,9 @@
         "name_en": "Zhongwei",
         "province": "宁夏",
         "province_en": "Ningxia",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.50570141870293",
+        "lng": "105.20357090088713"
     },
     "中山": {
         "name": "中山",
@@ -77,7 +95,9 @@
         "name_en": "Zhongshan",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "2"
+        "tier": "2",
+        "lat": "22.5223146707905",
+        "lng": "113.39942236263188"
     },
     "临汾": {
         "name": "临汾",
@@ -85,7 +105,9 @@
         "name_en": "Linfen",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.093741895419726",
+        "lng": "111.52553022403073"
     },
     "临沂": {
         "name": "临沂",
@@ -93,7 +115,9 @@
         "name_en": "Linyi",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "35.11067124236514",
+        "lng": "118.36353300501388"
     },
     "临沧": {
         "name": "临沧",
@@ -101,7 +125,9 @@
         "name_en": "Lincang",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.89046855627851",
+        "lng": "100.09544042014869"
     },
     "丹东": {
         "name": "丹东",
@@ -109,7 +135,9 @@
         "name_en": "Dandong",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "3"
+        "tier": "3",
+        "lat": "40.00640870559368",
+        "lng": "124.36154728159079"
     },
     "丽水": {
         "name": "丽水",
@@ -117,7 +145,9 @@
         "name_en": "Lishui",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "3"
+        "tier": "3",
+        "lat": "28.473278180563412",
+        "lng": "119.9295730584414"
     },
     "丽江": {
         "name": "丽江",
@@ -125,7 +155,9 @@
         "name_en": "Lijiang",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "26.860657438064884",
+        "lng": "100.23246452903453"
     },
     "乌兰察布": {
         "name": "乌兰察布",
@@ -133,7 +165,9 @@
         "name_en": "Ulanqab",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.00074832767381",
+        "lng": "113.13946767446333"
     },
     "乌海": {
         "name": "乌海",
@@ -141,7 +175,9 @@
         "name_en": "Wuhai",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "39.6620063648907",
+        "lng": "106.80039104999656"
     },
     "乌鲁木齐": {
         "name": "乌鲁木齐",
@@ -149,7 +185,9 @@
         "name_en": "Urumqi",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "2"
+        "tier": "2",
+        "lat": "43.830763204290484",
+        "lng": "87.62443993536046"
     },
     "乐山": {
         "name": "乐山",
@@ -157,7 +195,9 @@
         "name_en": "Leshan",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.55794071745811",
+        "lng": "103.7725376036347"
     },
     "九江": {
         "name": "九江",
@@ -165,7 +205,9 @@
         "name_en": "Jiujiang",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "3"
+        "tier": "3",
+        "lat": "29.711340559079343",
+        "lng": "116.00753491163063"
     },
     "云浮": {
         "name": "云浮",
@@ -173,7 +215,9 @@
         "name_en": "Yunfu",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "22.920911970342857",
+        "lng": "112.05151269959146"
     },
     "亳州": {
         "name": "亳州",
@@ -181,7 +225,9 @@
         "name_en": "Bozhou",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.850642695788835",
+        "lng": "115.7844632112745"
     },
     "伊春": {
         "name": "伊春",
@@ -189,7 +235,9 @@
         "name_en": "Yichun",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "47.733318457230936",
+        "lng": "128.84754638019822"
     },
     "伊犁": {
         "name": "伊犁",
@@ -197,7 +245,9 @@
         "name_en": "Yili",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "43.92272313749215",
+        "lng": "81.3305377475322"
     },
     "佛山": {
         "name": "佛山",
@@ -205,7 +255,9 @@
         "name_en": "Foshan",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "2"
+        "tier": "2",
+        "lat": "23.02775875078891",
+        "lng": "113.12851219549718"
     },
     "佳木斯": {
         "name": "佳木斯",
@@ -213,7 +265,9 @@
         "name_en": "Jiamusi",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "46.80568999085779",
+        "lng": "130.327359092573"
     },
     "保定": {
         "name": "保定",
@@ -221,7 +275,9 @@
         "name_en": "Baoding",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "38.87998776845534",
+        "lng": "115.47146383768579"
     },
     "保山": {
         "name": "保山",
@@ -229,7 +285,9 @@
         "name_en": "Baoshan",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "25.139038793265964",
+        "lng": "99.17727328581788"
     },
     "信阳": {
         "name": "信阳",
@@ -237,7 +295,9 @@
         "name_en": "Xinyang",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.15301454753105",
+        "lng": "114.09748283304512"
     },
     "儋州": {
         "name": "儋州",
@@ -245,7 +305,9 @@
         "name_en": "Danzhou",
         "province": "海南",
         "province_en": "Hainan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "19.64278758232148",
+        "lng": "109.1739880875565"
     },
     "克孜勒苏柯尔克孜": {
         "name": "克孜勒苏柯尔克孜",
@@ -253,7 +315,9 @@
         "name_en": "Kezilesukeerkezi",
         "province": "新疆",
         "province_en": "xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "39.72047120487073",
+        "lng": "76.17430867621205"
     },
     "克拉玛依": {
         "name": "克拉玛依",
@@ -261,7 +325,9 @@
         "name_en": "Karamay",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "45.58567523781376",
+        "lng": "84.89590053887504"
     },
     "六安": {
         "name": "六安",
@@ -269,7 +335,9 @@
         "name_en": "Lu'an",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "31.741450815322555",
+        "lng": "116.52640966418569"
     },
     "六盘水": {
         "name": "六盘水",
@@ -277,7 +345,9 @@
         "name_en": "Liupanshui",
         "province": "贵州",
         "province_en": "Guizhou",
-        "tier": "5"
+        "tier": "5",
+        "lat": "26.598833108257494",
+        "lng": "104.8375546023468"
     },
     "兰州": {
         "name": "兰州",
@@ -285,7 +355,9 @@
         "name_en": "Lanzhou",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "2"
+        "tier": "2",
+        "lat": "36.067234693545565",
+        "lng": "103.84052119633628"
     },
     "兴安盟": {
         "name": "兴安盟",
@@ -293,7 +365,9 @@
         "name_en": "Xinganmeng",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "46.08846371321896",
+        "lng": "122.04436452582519"
     },
     "内江": {
         "name": "内江",
@@ -301,7 +375,9 @@
         "name_en": "Neijiang",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.58588653832045",
+        "lng": "105.06458802499718"
     },
     "凉山": {
         "name": "凉山",
@@ -309,7 +385,9 @@
         "name_en": "Liangshan",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.88775230036972",
+        "lng": "102.2735026809702"
     },
     "包头": {
         "name": "包头",
@@ -317,7 +395,9 @@
         "name_en": "Baotou",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "3"
+        "tier": "3",
+        "lat": "40.66292878826139",
+        "lng": "109.84654350721243"
     },
     "北京": {
         "name": "北京",
@@ -325,7 +405,9 @@
         "name_en": "Beijing",
         "province": "北京",
         "province_en": "Beijing",
-        "tier": "5"
+        "tier": "5",
+        "lat": "39.910924547299565",
+        "lng": "116.4133836971231"
     },
     "北海": {
         "name": "北海",
@@ -333,7 +415,9 @@
         "name_en": "Beihai",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "21.48683649576942",
+        "lng": "109.126533212566"
     },
     "十堰": {
         "name": "十堰",
@@ -341,7 +425,9 @@
         "name_en": "Shiyan",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.63506185840116",
+        "lng": "110.80452956069568"
     },
     "南京": {
         "name": "南京",
@@ -349,7 +435,9 @@
         "name_en": "Nanjing",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "32.06465288561847",
+        "lng": "118.80242172124585"
     },
     "南充": {
         "name": "南充",
@@ -357,7 +445,9 @@
         "name_en": "Nanchong",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "30.843782508337036",
+        "lng": "106.11750261487227"
     },
     "南宁": {
         "name": "南宁",
@@ -365,7 +455,9 @@
         "name_en": "Nanning",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "2"
+        "tier": "2",
+        "lat": "22.822606601187154",
+        "lng": "108.37345082581861"
     },
     "南平": {
         "name": "南平",
@@ -373,7 +465,9 @@
         "name_en": "Nanping",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "3"
+        "tier": "3",
+        "lat": "26.647772874203266",
+        "lng": "118.1843695481426"
     },
     "南昌": {
         "name": "南昌",
@@ -381,7 +475,9 @@
         "name_en": "Nanchang",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "2"
+        "tier": "2",
+        "lat": "28.68945529506072",
+        "lng": "115.86458944231661"
     },
     "南通": {
         "name": "南通",
@@ -389,7 +485,9 @@
         "name_en": "Nantong",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "2"
+        "tier": "2",
+        "lat": "31.98654943120089",
+        "lng": "120.90159173866185"
     },
     "南阳": {
         "name": "南阳",
@@ -397,7 +495,9 @@
         "name_en": "Nanyang",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "32.99656220465144",
+        "lng": "112.53450131351325"
     },
     "博尔塔拉": {
         "name": "博尔塔拉",
@@ -405,7 +505,9 @@
         "name_en": "Boertala",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "44.9121964134647",
+        "lng": "82.07291475827434"
     },
     "厦门": {
         "name": "厦门",
@@ -413,7 +515,9 @@
         "name_en": "Xiamen",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "5"
+        "tier": "5",
+        "lat": "24.485406605176305",
+        "lng": "118.09643549976651"
     },
     "双鸭山": {
         "name": "双鸭山",
@@ -421,7 +525,9 @@
         "name_en": "Shuangyashan",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "46.65318589588607",
+        "lng": "131.16534168078073"
     },
     "台州": {
         "name": "台州",
@@ -429,7 +535,9 @@
         "name_en": "Taizhou",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "2"
+        "tier": "2",
+        "lat": "28.66219405599615",
+        "lng": "121.42743470427969"
     },
     "合肥": {
         "name": "合肥",
@@ -437,7 +545,9 @@
         "name_en": "Hefei",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "2"
+        "tier": "2",
+        "lat": "31.826577833686887",
+        "lng": "117.23344266497664"
     },
     "吉安": {
         "name": "吉安",
@@ -445,7 +555,9 @@
         "name_en": "Ji'an",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.119726826070448",
+        "lng": "115.00051072001253"
     },
     "吉林": {
         "name": "吉林",
@@ -453,7 +565,9 @@
         "name_en": "Jilin",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "3"
+        "tier": "3",
+        "lat": "43.84356783457924",
+        "lng": "126.55563450495482"
     },
     "吐鲁番": {
         "name": "吐鲁番",
@@ -461,7 +575,9 @@
         "name_en": "Turpan",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "42.95698484877124",
+        "lng": "89.1972972460079"
     },
     "吕梁": {
         "name": "吕梁",
@@ -469,7 +585,9 @@
         "name_en": "Lüliang",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.524497749577115",
+        "lng": "111.15044967529185"
     },
     "吴忠": {
         "name": "吴忠",
@@ -477,7 +595,9 @@
         "name_en": "Wuzhong",
         "province": "宁夏",
         "province_en": "Ningxia",
-        "tier": "5"
+        "tier": "5",
+        "lat": "38.00371291345338",
+        "lng": "106.20537126663626"
     },
     "周口": {
         "name": "周口",
@@ -485,7 +605,9 @@
         "name_en": "Zhoukou",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.6318288757022",
+        "lng": "114.70348251482332"
     },
     "呼伦贝尔": {
         "name": "呼伦贝尔",
@@ -493,7 +615,9 @@
         "name_en": "Hulunbuir",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "49.21844647556481",
+        "lng": "119.77237049946636"
     },
     "呼和浩特": {
         "name": "呼和浩特",
@@ -501,7 +625,9 @@
         "name_en": "Hohhot",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "3"
+        "tier": "3",
+        "lat": "40.84842299711348",
+        "lng": "111.75550856170946"
     },
     "和田": {
         "name": "和田",
@@ -509,7 +635,9 @@
         "name_en": "Hetian",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.12044646304192",
+        "lng": "79.9285070635119"
     },
     "咸宁": {
         "name": "咸宁",
@@ -517,7 +645,9 @@
         "name_en": "Xianning",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.847055947646492",
+        "lng": "114.32851909026844"
     },
     "咸阳": {
         "name": "咸阳",
@@ -525,7 +655,9 @@
         "name_en": "Xianyang",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "3"
+        "tier": "3",
+        "lat": "34.335476293368586",
+        "lng": "108.71542245143303"
     },
     "哈密": {
         "name": "哈密",
@@ -533,7 +665,9 @@
         "name_en": "Hami",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "",
+        "lng": ""
     },
     "哈尔滨": {
         "name": "哈尔滨",
@@ -541,7 +675,9 @@
         "name_en": "Harbin",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "2"
+        "tier": "2",
+        "lat": "45.808825827952184",
+        "lng": "126.54161509031663"
     },
     "唐山": {
         "name": "唐山",
@@ -549,7 +685,9 @@
         "name_en": "Tangshan",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "39.63658372414733",
+        "lng": "118.18645947203979"
     },
     "商丘": {
         "name": "商丘",
@@ -557,7 +695,9 @@
         "name_en": "Shangqiu",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.4202016658586",
+        "lng": "115.66244933826238"
     },
     "商洛": {
         "name": "商洛",
@@ -565,7 +705,9 @@
         "name_en": "Shangluo",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.87863385220776",
+        "lng": "109.92441788136406"
     },
     "喀什": {
         "name": "喀什",
@@ -573,7 +715,9 @@
         "name_en": "Kashen",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "39.47609674864479",
+        "lng": "75.99639055639747"
     },
     "嘉兴": {
         "name": "嘉兴",
@@ -581,7 +725,9 @@
         "name_en": "Jiaxing",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "2"
+        "tier": "2",
+        "lat": "30.750974830920143",
+        "lng": "120.76355182586005"
     },
     "嘉峪关": {
         "name": "嘉峪关",
@@ -589,7 +735,9 @@
         "name_en": "Jiayuguan",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "39.77796014739059",
+        "lng": "98.29620384300111"
     },
     "四平": {
         "name": "四平",
@@ -597,7 +745,9 @@
         "name_en": "Siping",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "5"
+        "tier": "5",
+        "lat": "43.171993571561",
+        "lng": "124.35648155715893"
     },
     "固原": {
         "name": "固原",
@@ -605,7 +755,9 @@
         "name_en": "Guyuan",
         "province": "宁夏",
         "province_en": "Ningxia",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.02161725801098",
+        "lng": "106.24857742607188"
     },
     "塔城": {
         "name": "塔城",
@@ -613,7 +765,9 @@
         "name_en": "Tacheng",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "46.750948254373434",
+        "lng": "82.9872355184064"
     },
     "大兴安岭": {
         "name": "大兴安岭",
@@ -621,7 +775,9 @@
         "name_en": "Daxinganling",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "50.42002595502784",
+        "lng": "124.15292785448057"
     },
     "大同": {
         "name": "大同",
@@ -629,7 +785,9 @@
         "name_en": "Datong",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "40.0824687161612",
+        "lng": "113.30643625858623"
     },
     "大庆": {
         "name": "大庆",
@@ -637,7 +795,9 @@
         "name_en": "Daqing",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "3"
+        "tier": "3",
+        "lat": "46.59363317672175",
+        "lng": "125.10865763402039"
     },
     "大理": {
         "name": "大理",
@@ -645,7 +805,9 @@
         "name_en": "Dali",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "25.59760490545194",
+        "lng": "100.23651930044413"
     },
     "大连": {
         "name": "大连",
@@ -653,7 +815,9 @@
         "name_en": "Dalian",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "38.9189536667856",
+        "lng": "121.62163148459285"
     },
     "天水": {
         "name": "天水",
@@ -661,7 +825,9 @@
         "name_en": "Tianshui",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.58741188165064",
+        "lng": "105.73141674566955"
     },
     "天津": {
         "name": "天津",
@@ -669,7 +835,9 @@
         "name_en": "Tianjin",
         "province": "天津",
         "province_en": "Tianjin",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "39.093667843403956",
+        "lng": "117.2095232146708"
     },
     "太原": {
         "name": "太原",
@@ -677,7 +845,9 @@
         "name_en": "Taiyuan",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "2"
+        "tier": "2",
+        "lat": "37.87698902884778",
+        "lng": "112.55639149167204"
     },
     "威海": {
         "name": "威海",
@@ -685,7 +855,9 @@
         "name_en": "Weihai",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "37.5164305480148",
+        "lng": "122.12754097831325"
     },
     "娄底": {
         "name": "娄底",
@@ -693,7 +865,9 @@
         "name_en": "Loudi",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.703208596991583",
+        "lng": "112.00150349288418"
     },
     "孝感": {
         "name": "孝感",
@@ -701,7 +875,9 @@
         "name_en": "Xiaogan",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "30.930689227018295",
+        "lng": "113.92251007733665"
     },
     "宁德": {
         "name": "宁德",
@@ -709,7 +885,9 @@
         "name_en": "Ningde",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "3"
+        "tier": "3",
+        "lat": "26.672241711408567",
+        "lng": "119.55451074542829"
     },
     "宁波": {
         "name": "宁波",
@@ -717,7 +895,9 @@
         "name_en": "Ningbo",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "29.866033045866054",
+        "lng": "121.62857249434141"
     },
     "安庆": {
         "name": "安庆",
@@ -725,7 +905,9 @@
         "name_en": "Anqing",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.53095656804304",
+        "lng": "117.06360390491879"
     },
     "安康": {
         "name": "安康",
@@ -733,7 +915,9 @@
         "name_en": "Ankang",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.69051277057377",
+        "lng": "109.03560108265746"
     },
     "安阳": {
         "name": "安阳",
@@ -741,7 +925,9 @@
         "name_en": "Anyang",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.10594098401491",
+        "lng": "114.39950042177432"
     },
     "安顺": {
         "name": "安顺",
@@ -749,7 +935,9 @@
         "name_en": "Anshun",
         "province": "贵州",
         "province_en": "Guizhou",
-        "tier": "5"
+        "tier": "5",
+        "lat": "26.25925237871499",
+        "lng": "105.95441712388904"
     },
     "定西": {
         "name": "定西",
@@ -757,7 +945,9 @@
         "name_en": "Dingxi",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.586832926561875",
+        "lng": "104.63242008306302"
     },
     "宜宾": {
         "name": "宜宾",
@@ -765,7 +955,9 @@
         "name_en": "Yibin",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "28.75800702855183",
+        "lng": "104.6494037048691"
     },
     "宜昌": {
         "name": "宜昌",
@@ -773,7 +965,9 @@
         "name_en": "Yichang",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "30.697446484492378",
+        "lng": "111.29254921035434"
     },
     "宜春": {
         "name": "宜春",
@@ -781,7 +975,9 @@
         "name_en": "Yichun",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.820856421848216",
+        "lng": "114.4235636759064"
     },
     "宝鸡": {
         "name": "宝鸡",
@@ -789,7 +985,9 @@
         "name_en": "Baoji",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.36891564286998",
+        "lng": "107.2445753670404"
     },
     "宣城": {
         "name": "宣城",
@@ -797,7 +995,9 @@
         "name_en": "Xuancheng",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.94660154529291",
+        "lng": "118.76553424276743"
     },
     "宿州": {
         "name": "宿州",
@@ -805,7 +1005,9 @@
         "name_en": "Suzhou",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.65209532645213",
+        "lng": "116.97054394561262"
     },
     "宿迁": {
         "name": "宿迁",
@@ -813,7 +1015,9 @@
         "name_en": "Suqian",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.96774971569008",
+        "lng": "118.28157403570837"
     },
     "山南": {
         "name": "山南",
@@ -821,7 +1025,9 @@
         "name_en": "Shannan",
         "province": "西藏",
         "province_en": "Xizang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.243026939249226",
+        "lng": "91.77867513851903"
     },
     "岳阳": {
         "name": "岳阳",
@@ -829,7 +1035,9 @@
         "name_en": "Yueyang",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "29.3631782939259",
+        "lng": "113.13548942422142"
     },
     "崇左": {
         "name": "崇左",
@@ -837,7 +1045,9 @@
         "name_en": "Chongzuo",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "22.383117234663302",
+        "lng": "107.3715202061015"
     },
     "巢湖": {
         "name": "巢湖",
@@ -845,7 +1055,9 @@
         "name_en": "Chaohu",
         "province": "安徽",
         "province_en": "anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "",
+        "lng": ""
     },
     "巴中": {
         "name": "巴中",
@@ -853,7 +1065,9 @@
         "name_en": "Bazhong",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "31.872888585956545",
+        "lng": "106.7515853031645"
     },
     "巴彦淖尔": {
         "name": "巴彦淖尔",
@@ -861,7 +1075,9 @@
         "name_en": "Bayannur",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "40.7493594895728",
+        "lng": "107.39439808372491"
     },
     "巴音郭楞": {
         "name": "巴音郭楞",
@@ -869,7 +1085,9 @@
         "name_en": "Bayinguoleng",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.7702873304504",
+        "lng": "86.1517138653326"
     },
     "常州": {
         "name": "常州",
@@ -877,7 +1095,9 @@
         "name_en": "Changzhou",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "2"
+        "tier": "2",
+        "lat": "31.815795653327836",
+        "lng": "119.98148471327892"
     },
     "常德": {
         "name": "常德",
@@ -885,7 +1105,9 @@
         "name_en": "Changde",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.037749999406877",
+        "lng": "111.70545217995837"
     },
     "平凉": {
         "name": "平凉",
@@ -893,7 +1115,9 @@
         "name_en": "Pingliang",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.549232050463516",
+        "lng": "106.67144234827796"
     },
     "平顶山": {
         "name": "平顶山",
@@ -901,7 +1125,9 @@
         "name_en": "Pingdingshan",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.772050748691015",
+        "lng": "113.19952856052156"
     },
     "广元": {
         "name": "广元",
@@ -909,7 +1135,9 @@
         "name_en": "Guangyuan",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.44161630531542",
+        "lng": "105.85042318166482"
     },
     "广安": {
         "name": "广安",
@@ -917,7 +1145,9 @@
         "name_en": "Guang'an",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.461746110678995",
+        "lng": "106.63955268233484"
     },
     "广州": {
         "name": "广州",
@@ -925,7 +1155,9 @@
         "name_en": "Guangzhou",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "1"
+        "tier": "1",
+        "lat": "23.135336306695006",
+        "lng": "113.27143134445974"
     },
     "庆阳": {
         "name": "庆阳",
@@ -933,7 +1165,9 @@
         "name_en": "Qingyang",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.71521598356201",
+        "lng": "107.6493856959542"
     },
     "廊坊": {
         "name": "廊坊",
@@ -941,7 +1175,9 @@
         "name_en": "Langfang",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "39.54336666275853",
+        "lng": "116.69058173342549"
     },
     "延安": {
         "name": "延安",
@@ -949,7 +1185,9 @@
         "name_en": "Yan'an",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.59111103521779",
+        "lng": "109.49658191612687"
     },
     "延边": {
         "name": "延边",
@@ -957,7 +1195,9 @@
         "name_en": "Yanbian",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "3"
+        "tier": "3",
+        "lat": "42.91574303372181",
+        "lng": "129.4773763202274"
     },
     "开封": {
         "name": "开封",
@@ -965,7 +1205,9 @@
         "name_en": "Kaifeng",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.80288581121172",
+        "lng": "114.31459258497121"
     },
     "张家口": {
         "name": "张家口",
@@ -973,7 +1215,9 @@
         "name_en": "Zhangjiakou",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "40.7732372026915",
+        "lng": "114.89257223145165"
     },
     "张家界": {
         "name": "张家界",
@@ -981,7 +1225,9 @@
         "name_en": "Zhangjiajie",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.122815562551878",
+        "lng": "110.48553254695402"
     },
     "张掖": {
         "name": "张掖",
@@ -989,7 +1235,9 @@
         "name_en": "Zhangye",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "38.932066007004934",
+        "lng": "100.45641147405634"
     },
     "徐州": {
         "name": "徐州",
@@ -997,7 +1245,9 @@
         "name_en": "Xuzhou",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "2"
+        "tier": "2",
+        "lat": "34.21266655011306",
+        "lng": "117.29057543439453"
     },
     "德宏": {
         "name": "德宏",
@@ -1005,7 +1255,9 @@
         "name_en": "Dehong",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "24.438010702758117",
+        "lng": "98.59135935611411"
     },
     "德州": {
         "name": "德州",
@@ -1013,7 +1265,9 @@
         "name_en": "Dezhou",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.441308454576266",
+        "lng": "116.36555674397471"
     },
     "德阳": {
         "name": "德阳",
@@ -1021,7 +1275,9 @@
         "name_en": "Deyang",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "31.133115003656755",
+        "lng": "104.40441936496448"
     },
     "忻州": {
         "name": "忻州",
@@ -1029,7 +1285,9 @@
         "name_en": "Xinzhou",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "38.42238338517772",
+        "lng": "112.74062416023847"
     },
     "怀化": {
         "name": "怀化",
@@ -1037,7 +1295,9 @@
         "name_en": "Huaihua",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.575160902978517",
+        "lng": "110.00851426537254"
     },
     "怒江": {
         "name": "怒江",
@@ -1045,7 +1305,9 @@
         "name_en": "Nujiang",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "25.823707417657754",
+        "lng": "98.8632883813579"
     },
     "恩施": {
         "name": "恩施",
@@ -1053,7 +1315,9 @@
         "name_en": "Enshi",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.277939575301094",
+        "lng": "109.49459261857503"
     },
     "惠州": {
         "name": "惠州",
@@ -1061,7 +1325,9 @@
         "name_en": "Huizhou",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "2"
+        "tier": "2",
+        "lat": "23.116358854725593",
+        "lng": "114.4235580165817"
     },
     "成都": {
         "name": "成都",
@@ -1069,7 +1335,9 @@
         "name_en": "Chengdu",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.655821878416408",
+        "lng": "104.08153351042463"
     },
     "扬州": {
         "name": "扬州",
@@ -1077,7 +1345,9 @@
         "name_en": "Yangzhou",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "3"
+        "tier": "3",
+        "lat": "32.40067693609037",
+        "lng": "119.41941890822997"
     },
     "承德": {
         "name": "承德",
@@ -1085,7 +1355,9 @@
         "name_en": "Chengde",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "40.95785601233803",
+        "lng": "117.96939750996681"
     },
     "抚州": {
         "name": "抚州",
@@ -1093,7 +1365,9 @@
         "name_en": "Fuzhou",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.954892253419565",
+        "lng": "116.36453876864373"
     },
     "抚顺": {
         "name": "抚顺",
@@ -1101,7 +1375,9 @@
         "name_en": "Fushun",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "3"
+        "tier": "3",
+        "lat": "41.88596959305694",
+        "lng": "123.9643746156145"
     },
     "拉萨": {
         "name": "拉萨",
@@ -1109,7 +1385,9 @@
         "name_en": "Lhasa",
         "province": "西藏",
         "province_en": "Xizang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.65004027476773",
+        "lng": "91.12082391546393"
     },
     "揭阳": {
         "name": "揭阳",
@@ -1117,7 +1395,9 @@
         "name_en": "Jieyang",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "23.555740488275585",
+        "lng": "116.37851218033846"
     },
     "攀枝花": {
         "name": "攀枝花",
@@ -1125,7 +1405,9 @@
         "name_en": "Panzhihua",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "26.58803317333301",
+        "lng": "101.72554117091441"
     },
     "文山": {
         "name": "文山",
@@ -1133,7 +1415,9 @@
         "name_en": "Wenshan",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.40599429361173",
+        "lng": "104.22256899109433"
     },
     "新乡": {
         "name": "新乡",
@@ -1141,7 +1425,9 @@
         "name_en": "Xinxiang",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.3096399303368",
+        "lng": "113.93360046733228"
     },
     "新余": {
         "name": "新余",
@@ -1149,7 +1435,9 @@
         "name_en": "Xinyu",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.823578697788587",
+        "lng": "114.9235346513963"
     },
     "无锡": {
         "name": "无锡",
@@ -1157,7 +1445,9 @@
         "name_en": "Wuxi",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "2"
+        "tier": "2",
+        "lat": "31.498809732685714",
+        "lng": "120.31858328810601"
     },
     "日喀则": {
         "name": "日喀则",
@@ -1165,7 +1455,9 @@
         "name_en": "Shigatse",
         "province": "西藏",
         "province_en": "Xizang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.275657822511512",
+        "lng": "88.89370303482552"
     },
     "日照": {
         "name": "日照",
@@ -1173,7 +1465,9 @@
         "name_en": "Rizhao",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.42283899843767",
+        "lng": "119.53341540456555"
     },
     "昆明": {
         "name": "昆明",
@@ -1181,7 +1475,9 @@
         "name_en": "Kunming",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "2"
+        "tier": "2",
+        "lat": "24.873998150044006",
+        "lng": "102.85244836500482"
     },
     "昌吉": {
         "name": "昌吉",
@@ -1189,7 +1485,9 @@
         "name_en": "Changji",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "44.01685415991987",
+        "lng": "87.3150016244744"
     },
     "昌都": {
         "name": "昌都",
@@ -1197,7 +1495,9 @@
         "name_en": "Chamdo",
         "province": "西藏",
         "province_en": "Xizang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "31.14734654932703",
+        "lng": "97.17958359408598"
     },
     "昭通": {
         "name": "昭通",
@@ -1205,7 +1505,9 @@
         "name_en": "Zhaotong",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.34408386024681",
+        "lng": "103.72351177196889"
     },
     "晋中": {
         "name": "晋中",
@@ -1213,7 +1515,9 @@
         "name_en": "Jinzhong",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.69283940975972",
+        "lng": "112.75959475565928"
     },
     "晋城": {
         "name": "晋城",
@@ -1221,7 +1525,9 @@
         "name_en": "Jincheng",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.49628458647257",
+        "lng": "112.85857823132879"
     },
     "普洱": {
         "name": "普洱",
@@ -1229,7 +1535,9 @@
         "name_en": "Pu'er",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "22.830979186010275",
+        "lng": "100.97256981472799"
     },
     "景德镇": {
         "name": "景德镇",
@@ -1237,7 +1545,9 @@
         "name_en": "Jingdezhen",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.274247711040953",
+        "lng": "117.18457644638579"
     },
     "曲靖": {
         "name": "曲靖",
@@ -1245,7 +1555,9 @@
         "name_en": "Qujing",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "25.496406931543667",
+        "lng": "103.80243482794681"
     },
     "朔州": {
         "name": "朔州",
@@ -1253,7 +1565,9 @@
         "name_en": "Shuozhou",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "39.337108370541735",
+        "lng": "112.4393709396677"
     },
     "朝阳": {
         "name": "朝阳",
@@ -1261,7 +1575,9 @@
         "name_en": "Chaoyang",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.57982086475567",
+        "lng": "120.45749949793277"
     },
     "本溪": {
         "name": "本溪",
@@ -1269,7 +1585,9 @@
         "name_en": "Benxi",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.49291646055291",
+        "lng": "123.69250712420832"
     },
     "来宾": {
         "name": "来宾",
@@ -1277,7 +1595,9 @@
         "name_en": "Laibin",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.75654676260728",
+        "lng": "109.22745819590091"
     },
     "杭州": {
         "name": "杭州",
@@ -1285,7 +1605,9 @@
         "name_en": "Hangzhou",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "30.25308298169347",
+        "lng": "120.21551180372168"
     },
     "松原": {
         "name": "松原",
@@ -1293,7 +1615,9 @@
         "name_en": "Songyuan",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "5"
+        "tier": "5",
+        "lat": "45.14740419341382",
+        "lng": "124.83148187569292"
     },
     "林芝": {
         "name": "林芝",
@@ -1301,7 +1625,9 @@
         "name_en": "Nyingchi",
         "province": "西藏",
         "province_en": "Xizang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.654042176951524",
+        "lng": "94.36805828713257"
     },
     "果洛": {
         "name": "果洛",
@@ -1309,7 +1635,9 @@
         "name_en": "Guoluo",
         "province": "青海",
         "province_en": "Qinghai",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.4771938664709",
+        "lng": "100.25159197879555"
     },
     "枣庄": {
         "name": "枣庄",
@@ -1317,7 +1645,9 @@
         "name_en": "Zaozhuang",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.815994048435115",
+        "lng": "117.33054194483897"
     },
     "柳州": {
         "name": "柳州",
@@ -1325,7 +1655,9 @@
         "name_en": "Liuzhou",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "3"
+        "tier": "3",
+        "lat": "24.331961386852413",
+        "lng": "109.43442194634564"
     },
     "株洲": {
         "name": "株洲",
@@ -1333,7 +1665,9 @@
         "name_en": "Zhuzhou",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "27.833567639016444",
+        "lng": "113.14047079776427"
     },
     "桂林": {
         "name": "桂林",
@@ -1341,7 +1675,9 @@
         "name_en": "Guilin",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "3"
+        "tier": "3",
+        "lat": "25.242885724872647",
+        "lng": "110.20354537457943"
     },
     "梅州": {
         "name": "梅州",
@@ -1349,7 +1685,9 @@
         "name_en": "Meizhou",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "24.294177532206206",
+        "lng": "116.12953737612247"
     },
     "梧州": {
         "name": "梧州",
@@ -1357,7 +1695,9 @@
         "name_en": "Wuzhou",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.48274528113516",
+        "lng": "111.28551681182014"
     },
     "楚雄": {
         "name": "楚雄",
@@ -1365,7 +1705,9 @@
         "name_en": "Chuxiong",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "25.051773565340376",
+        "lng": "101.53441248050268"
     },
     "榆林": {
         "name": "榆林",
@@ -1373,7 +1715,9 @@
         "name_en": "Yulin",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "38.290883835484046",
+        "lng": "109.74161603381395"
     },
     "武威": {
         "name": "武威",
@@ -1381,7 +1725,9 @@
         "name_en": "Wuwei",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.93437780815811",
+        "lng": "102.64455434036918"
     },
     "武汉": {
         "name": "武汉",
@@ -1389,7 +1735,9 @@
         "name_en": "Wuhan",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "30.598466736400987",
+        "lng": "114.31158155473231"
     },
     "毕节": {
         "name": "毕节",
@@ -1397,7 +1745,9 @@
         "name_en": "Bijie",
         "province": "贵州",
         "province_en": "Guizhou",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.29021508342595",
+        "lng": "105.2985887950112"
     },
     "永州": {
         "name": "永州",
@@ -1405,7 +1755,9 @@
         "name_en": "Yongzhou",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "26.425864117900094",
+        "lng": "111.61945505792227"
     },
     "汉中": {
         "name": "汉中",
@@ -1413,7 +1765,9 @@
         "name_en": "Hanzhong",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.073799907833795",
+        "lng": "107.02943020926463"
     },
     "汕头": {
         "name": "汕头",
@@ -1421,7 +1775,9 @@
         "name_en": "Shantou",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "23.35909171772515",
+        "lng": "116.68852864054833"
     },
     "汕尾": {
         "name": "汕尾",
@@ -1429,7 +1785,9 @@
         "name_en": "Shanwei",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "22.79126303654673",
+        "lng": "115.38155260365083"
     },
     "江门": {
         "name": "江门",
@@ -1437,7 +1795,9 @@
         "name_en": "Jiangmen",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "22.584603880965",
+        "lng": "113.08855619524043"
     },
     "池州": {
         "name": "池州",
@@ -1445,7 +1805,9 @@
         "name_en": "Chizhou",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.670883790764535",
+        "lng": "117.49842096159624"
     },
     "沈阳": {
         "name": "沈阳",
@@ -1453,7 +1815,9 @@
         "name_en": "Shenyang",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "41.68383006919066",
+        "lng": "123.47109664482264"
     },
     "沧州": {
         "name": "沧州",
@@ -1461,7 +1825,9 @@
         "name_en": "Cangzhou",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "38.310215141107044",
+        "lng": "116.84558075595014"
     },
     "河池": {
         "name": "河池",
@@ -1469,7 +1835,9 @@
         "name_en": "Hechi",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "24.698911731272894",
+        "lng": "108.09149994498661"
     },
     "河源": {
         "name": "河源",
@@ -1477,7 +1845,9 @@
         "name_en": "Heyuan",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.749684370959752",
+        "lng": "114.70744627290641"
     },
     "泉州": {
         "name": "泉州",
@@ -1485,7 +1855,9 @@
         "name_en": "Quanzhou",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "2"
+        "tier": "2",
+        "lat": "24.879952330498313",
+        "lng": "118.68244626680422"
     },
     "泰安": {
         "name": "泰安",
@@ -1493,7 +1865,9 @@
         "name_en": "Tai'an",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "36.2058580448846",
+        "lng": "117.0944948347959"
     },
     "泰州": {
         "name": "泰州",
@@ -1501,7 +1875,9 @@
         "name_en": "Taizhou",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "3"
+        "tier": "3",
+        "lat": "32.4606750493083",
+        "lng": "119.9295663378548"
     },
     "泸州": {
         "name": "泸州",
@@ -1509,7 +1885,9 @@
         "name_en": "Luzhou",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "28.87766830360723",
+        "lng": "105.4485240693266"
     },
     "洛阳": {
         "name": "洛阳",
@@ -1517,7 +1895,9 @@
         "name_en": "Luoyang",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "34.62426277921943",
+        "lng": "112.4594212983115"
     },
     "济南": {
         "name": "济南",
@@ -1525,7 +1905,9 @@
         "name_en": "Jinan",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "2"
+        "tier": "2",
+        "lat": "36.65655420178723",
+        "lng": "117.12639941261048"
     },
     "济宁": {
         "name": "济宁",
@@ -1533,7 +1915,9 @@
         "name_en": "Jining",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "35.420177394529645",
+        "lng": "116.59361234853988"
     },
     "海东": {
         "name": "海东",
@@ -1541,7 +1925,9 @@
         "name_en": "Haidong",
         "province": "青海",
         "province_en": "Qinghai",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.508511080941304",
+        "lng": "102.1104440722824"
     },
     "海北": {
         "name": "海北",
@@ -1549,7 +1935,9 @@
         "name_en": "Haibei",
         "province": "青海",
         "province_en": "Qinghai",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.96066282412982",
+        "lng": "100.90743432145598"
     },
     "海南": {
         "name": "海南",
@@ -1557,7 +1945,9 @@
         "name_en": "Hainan",
         "province": "青海",
         "province_en": "Qinghai",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.2921024798988",
+        "lng": "100.62662114445924"
     },
     "海口": {
         "name": "海口",
@@ -1565,7 +1955,9 @@
         "name_en": "Haikou",
         "province": "海南",
         "province_en": "Hainan",
-        "tier": "2"
+        "tier": "2",
+        "lat": "20.04404943925674",
+        "lng": "110.32552547126409"
     },
     "海西": {
         "name": "海西",
@@ -1573,7 +1965,9 @@
         "name_en": "Haixi",
         "province": "青海",
         "province_en": "Qinghai",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.38275046252745",
+        "lng": "97.37629911601906"
     },
     "淄博": {
         "name": "淄博",
@@ -1581,7 +1975,9 @@
         "name_en": "Zibo",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "36.81908568332188",
+        "lng": "118.06145253489896"
     },
     "淮北": {
         "name": "淮北",
@@ -1589,7 +1985,9 @@
         "name_en": "Huaibei",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.96165630027632",
+        "lng": "116.8045372670298"
     },
     "淮南": {
         "name": "淮南",
@@ -1597,7 +1995,9 @@
         "name_en": "Huainan",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.63184739905333",
+        "lng": "117.00638885071616"
     },
     "淮安": {
         "name": "淮安",
@@ -1605,7 +2005,9 @@
         "name_en": "Huainan",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.63184739905333",
+        "lng": "117.00638885071616"
     },
     "深圳": {
         "name": "深圳",
@@ -1613,7 +2015,9 @@
         "name_en": "Shenzhen",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "1"
+        "tier": "1",
+        "lat": "22.548456637984177",
+        "lng": "114.06455183658751"
     },
     "清远": {
         "name": "清远",
@@ -1621,7 +2025,9 @@
         "name_en": "Qingyuan",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "23.688230292088083",
+        "lng": "113.06246832527266"
     },
     "温州": {
         "name": "温州",
@@ -1629,7 +2035,9 @@
         "name_en": "Wenzhou",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "2"
+        "tier": "2",
+        "lat": "28.00108540447221",
+        "lng": "120.70647689035565"
     },
     "渭南": {
         "name": "渭南",
@@ -1637,7 +2045,9 @@
         "name_en": "Weinan",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.50571551675255",
+        "lng": "109.51658960525897"
     },
     "湖州": {
         "name": "湖州",
@@ -1645,7 +2055,9 @@
         "name_en": "Huzhou",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "3"
+        "tier": "3",
+        "lat": "30.898963937294184",
+        "lng": "120.09451660915789"
     },
     "湘潭": {
         "name": "湘潭",
@@ -1653,7 +2065,9 @@
         "name_en": "Xiangtan",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.835702227135585",
+        "lng": "112.95046418076468"
     },
     "湘西": {
         "name": "湘西",
@@ -1661,7 +2075,9 @@
         "name_en": "Xiangxi",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "28.317369104701186",
+        "lng": "109.74557664946683"
     },
     "湛江": {
         "name": "湛江",
@@ -1669,7 +2085,9 @@
         "name_en": "Zhanjiang",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "21.276723439012073",
+        "lng": "110.36555441392824"
     },
     "滁州": {
         "name": "滁州",
@@ -1677,7 +2095,9 @@
         "name_en": "Chuzhou",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.26127087204081",
+        "lng": "118.33940613596579"
     },
     "滨州": {
         "name": "滨州",
@@ -1685,7 +2105,9 @@
         "name_en": "Binzhou",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.3881961960769",
+        "lng": "117.9774040171467"
     },
     "漯河": {
         "name": "漯河",
@@ -1693,7 +2115,9 @@
         "name_en": "Luohe",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.5877107071022",
+        "lng": "114.02342077764726"
     },
     "漳州": {
         "name": "漳州",
@@ -1701,7 +2125,9 @@
         "name_en": "Zhangzhou",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "3"
+        "tier": "3",
+        "lat": "24.51892979117087",
+        "lng": "117.65357645298785"
     },
     "潍坊": {
         "name": "潍坊",
@@ -1709,7 +2135,9 @@
         "name_en": "Weifang",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.71265155126753",
+        "lng": "119.16837791142822"
     },
     "潮州": {
         "name": "潮州",
@@ -1717,7 +2145,9 @@
         "name_en": "Chaozhou",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.662623192615886",
+        "lng": "116.62947017362819"
     },
     "濮阳": {
         "name": "濮阳",
@@ -1725,7 +2155,9 @@
         "name_en": "Puyang",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.76759302890629",
+        "lng": "115.03559747034215"
     },
     "烟台": {
         "name": "烟台",
@@ -1733,7 +2165,9 @@
         "name_en": "Yantai",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "2"
+        "tier": "2",
+        "lat": "37.470038383730525",
+        "lng": "121.45441541730195"
     },
     "焦作": {
         "name": "焦作",
@@ -1741,7 +2175,9 @@
         "name_en": "Jiaozuo",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.22096325403899",
+        "lng": "113.24854783457334"
     },
     "牡丹江": {
         "name": "牡丹江",
@@ -1749,7 +2185,9 @@
         "name_en": "Mudanjiang",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "44.55624570898632",
+        "lng": "129.6395397783469"
     },
     "玉林": {
         "name": "玉林",
@@ -1757,7 +2195,9 @@
         "name_en": "Yulin",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "22.659830509953142",
+        "lng": "110.1884531233724"
     },
     "玉树": {
         "name": "玉树",
@@ -1765,7 +2205,9 @@
         "name_en": "Yushu",
         "province": "青海",
         "province_en": "Qinghai",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.01097958514274",
+        "lng": "97.01318076277326"
     },
     "玉溪": {
         "name": "玉溪",
@@ -1773,7 +2215,9 @@
         "name_en": "Yuxi",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "24.35771094244625",
+        "lng": "102.55356029311"
     },
     "珠海": {
         "name": "珠海",
@@ -1781,7 +2225,9 @@
         "name_en": "Zhuhai",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "2"
+        "tier": "2",
+        "lat": "22.27656465424921",
+        "lng": "113.58255478654918"
     },
     "甘南": {
         "name": "甘南",
@@ -1789,7 +2235,9 @@
         "name_en": "Gannan",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.98913990996821",
+        "lng": "102.91758468825803"
     },
     "甘孜": {
         "name": "甘孜",
@@ -1797,7 +2245,9 @@
         "name_en": "Ganzi",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.05527884351838",
+        "lng": "101.96854674579022"
     },
     "白城": {
         "name": "白城",
@@ -1805,7 +2255,9 @@
         "name_en": "Baicheng",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "5"
+        "tier": "5",
+        "lat": "45.62550435999602",
+        "lng": "122.8455906084976"
     },
     "白山": {
         "name": "白山",
@@ -1813,7 +2265,9 @@
         "name_en": "Baishan",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.93962720532889",
+        "lng": "126.42963008937573"
     },
     "白银": {
         "name": "白银",
@@ -1821,7 +2275,9 @@
         "name_en": "Baiyin",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.55082533041454",
+        "lng": "104.1444508283435"
     },
     "百色": {
         "name": "百色",
@@ -1829,7 +2285,9 @@
         "name_en": "Baise",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.908185934295958",
+        "lng": "106.62458932565383"
     },
     "益阳": {
         "name": "益阳",
@@ -1837,7 +2295,9 @@
         "name_en": "Yiyang",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "28.559711178489888",
+        "lng": "112.36151595471031"
     },
     "盐城": {
         "name": "盐城",
@@ -1845,7 +2305,9 @@
         "name_en": "Yancheng",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "3"
+        "tier": "3",
+        "lat": "33.355100917626196",
+        "lng": "120.167544265761"
     },
     "盘锦": {
         "name": "盘锦",
@@ -1853,7 +2315,9 @@
         "name_en": "Panjin",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "3"
+        "tier": "3",
+        "lat": "41.12587528873715",
+        "lng": "122.07749009021381"
     },
     "眉山": {
         "name": "眉山",
@@ -1861,7 +2325,9 @@
         "name_en": "Meishan",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "30.082526119421058",
+        "lng": "103.85656331579456"
     },
     "石嘴山": {
         "name": "石嘴山",
@@ -1869,7 +2335,9 @@
         "name_en": "Shizuishan",
         "province": "宁夏",
         "province_en": "Ningxia",
-        "tier": "5"
+        "tier": "5",
+        "lat": "38.98968283991508",
+        "lng": "106.3906004255049"
     },
     "石家庄": {
         "name": "石家庄",
@@ -1877,7 +2345,9 @@
         "name_en": "Shijiazhuang",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "2"
+        "tier": "2",
+        "lat": "38.052097109846855",
+        "lng": "114.46902163264978"
     },
     "福州": {
         "name": "福州",
@@ -1885,7 +2355,9 @@
         "name_en": "Fuzhou",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "2"
+        "tier": "2",
+        "lat": "26.080429420698078",
+        "lng": "119.30346983854001"
     },
     "秦皇岛": {
         "name": "秦皇岛",
@@ -1893,7 +2365,9 @@
         "name_en": "Qinhuangdao",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "39.941748102377936",
+        "lng": "119.60853063334328"
     },
     "红河": {
         "name": "红河",
@@ -1901,7 +2375,9 @@
         "name_en": "Honghe",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.37448873836479",
+        "lng": "102.42755057757"
     },
     "绍兴": {
         "name": "绍兴",
@@ -1909,7 +2385,9 @@
         "name_en": "Shaoxing",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "2"
+        "tier": "2",
+        "lat": "30.0363693113069",
+        "lng": "120.58547847885335"
     },
     "绥化": {
         "name": "绥化",
@@ -1917,7 +2395,9 @@
         "name_en": "Suihua",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "46.6600321798244",
+        "lng": "126.97535687530133"
     },
     "绵阳": {
         "name": "绵阳",
@@ -1925,7 +2405,9 @@
         "name_en": "Mianyang",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "31.473663048745863",
+        "lng": "104.6855618607612"
     },
     "聊城": {
         "name": "聊城",
@@ -1933,7 +2415,9 @@
         "name_en": "Liaocheng",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.46275818769411",
+        "lng": "115.99158784830443"
     },
     "肇庆": {
         "name": "肇庆",
@@ -1941,7 +2425,9 @@
         "name_en": "Zhaoqing",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "3"
+        "tier": "3",
+        "lat": "23.052888771125616",
+        "lng": "112.47148894063035"
     },
     "自贡": {
         "name": "自贡",
@@ -1949,7 +2435,9 @@
         "name_en": "Zigong",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.345584921327575",
+        "lng": "104.78444884671711"
     },
     "舟山": {
         "name": "舟山",
@@ -1957,7 +2445,9 @@
         "name_en": "Zhoushan",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "3"
+        "tier": "3",
+        "lat": "29.99091168016034",
+        "lng": "122.21355631852045"
     },
     "芜湖": {
         "name": "芜湖",
@@ -1965,7 +2455,9 @@
         "name_en": "Wuhu",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "3"
+        "tier": "3",
+        "lat": "31.358536655799266",
+        "lng": "118.43943137653523"
     },
     "苏州": {
         "name": "苏州",
@@ -1973,7 +2465,9 @@
         "name_en": "Suzhou",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "31.303564074441766",
+        "lng": "120.59241222959322"
     },
     "茂名": {
         "name": "茂名",
@@ -1981,7 +2475,9 @@
         "name_en": "Maoming",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "21.669064031332095",
+        "lng": "110.931542579969"
     },
     "荆州": {
         "name": "荆州",
@@ -1989,7 +2485,9 @@
         "name_en": "Jingzhou",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "30.340842107742912",
+        "lng": "112.24552262926137"
     },
     "荆门": {
         "name": "荆门",
@@ -1997,7 +2495,9 @@
         "name_en": "Jingmen",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "31.041732575569622",
+        "lng": "112.20639298023002"
     },
     "莆田": {
         "name": "莆田",
@@ -2005,7 +2505,9 @@
         "name_en": "Putian",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "3"
+        "tier": "3",
+        "lat": "25.45986545592271",
+        "lng": "119.0145209781265"
     },
     "莱芜": {
         "name": "莱芜",
@@ -2013,7 +2515,9 @@
         "name_en": "Laiwu",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "",
+        "lng": ""
     },
     "菏泽": {
         "name": "菏泽",
@@ -2021,7 +2525,9 @@
         "name_en": "Heze",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.23940742476551",
+        "lng": "115.48754503343376"
     },
     "萍乡": {
         "name": "萍乡",
@@ -2029,7 +2535,9 @@
         "name_en": "Pingxiang",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.6283927093972",
+        "lng": "113.8614964337543"
     },
     "营口": {
         "name": "营口",
@@ -2037,7 +2545,9 @@
         "name_en": "Yingkou",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "3"
+        "tier": "3",
+        "lat": "40.67313683826707",
+        "lng": "122.24157466449694"
     },
     "葫芦岛": {
         "name": "葫芦岛",
@@ -2045,7 +2555,9 @@
         "name_en": "Huludao",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "5"
+        "tier": "5",
+        "lat": "40.71736443636189",
+        "lng": "120.8433983399283"
     },
     "蚌埠": {
         "name": "蚌埠",
@@ -2053,7 +2565,9 @@
         "name_en": "Bengbu",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "3"
+        "tier": "3",
+        "lat": "32.921523704350825",
+        "lng": "117.39551332813694"
     },
     "衡水": {
         "name": "衡水",
@@ -2061,7 +2575,9 @@
         "name_en": "Hengshui",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.745191408077424",
+        "lng": "115.6754061376161"
     },
     "衡阳": {
         "name": "衡阳",
@@ -2069,7 +2585,9 @@
         "name_en": "Hengyang",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "3"
+        "tier": "3",
+        "lat": "26.899576139189122",
+        "lng": "112.57844721325992"
     },
     "衢州": {
         "name": "衢州",
@@ -2077,7 +2595,9 @@
         "name_en": "Quzhou",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "3"
+        "tier": "3",
+        "lat": "28.975545802265025",
+        "lng": "118.86659674035565"
     },
     "襄樊": {
         "name": "襄樊",
@@ -2085,7 +2605,9 @@
         "name_en": "Xiangfan",
         "province": "湖北",
         "province_en": "hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "",
+        "lng": ""
     },
     "西双版纳": {
         "name": "西双版纳",
@@ -2093,7 +2615,9 @@
         "name_en": "Xishuangbanna",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "22.013601254764165",
+        "lng": "100.80344682455637"
     },
     "西宁": {
         "name": "西宁",
@@ -2101,7 +2625,9 @@
         "name_en": "Xining",
         "province": "青海",
         "province_en": "Qinghai",
-        "tier": "3"
+        "tier": "3",
+        "lat": "36.62338469651661",
+        "lng": "101.78445017050855"
     },
     "西安": {
         "name": "西安",
@@ -2109,7 +2635,9 @@
         "name_en": "Xi'an",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "34.34726881662395",
+        "lng": "108.94646555063274"
     },
     "许昌": {
         "name": "许昌",
@@ -2117,7 +2645,9 @@
         "name_en": "Xuchang",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.04143161161871",
+        "lng": "113.85847553685502"
     },
     "贵港": {
         "name": "贵港",
@@ -2125,7 +2655,9 @@
         "name_en": "Guigang",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "23.117448382037534",
+        "lng": "109.60552031033306"
     },
     "贵阳": {
         "name": "贵阳",
@@ -2133,7 +2665,9 @@
         "name_en": "Guiyang",
         "province": "贵州",
         "province_en": "Guizhou",
-        "tier": "2"
+        "tier": "2",
+        "lat": "26.653324822309752",
+        "lng": "106.63657676352776"
     },
     "贺州": {
         "name": "贺州",
@@ -2141,7 +2675,9 @@
         "name_en": "Hezhou",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "24.409450902865487",
+        "lng": "111.57352631416218"
     },
     "资阳": {
         "name": "资阳",
@@ -2149,7 +2685,9 @@
         "name_en": "Ziyang",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.13495655925314",
+        "lng": "104.6344353416441"
     },
     "赣州": {
         "name": "赣州",
@@ -2157,7 +2695,9 @@
         "name_en": "Ganzhou",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "3"
+        "tier": "3",
+        "lat": "25.835176103497655",
+        "lng": "114.9405033729825"
     },
     "赤峰": {
         "name": "赤峰",
@@ -2165,7 +2705,9 @@
         "name_en": "Chifeng",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "42.2616861034116",
+        "lng": "118.8955203975195"
     },
     "辽源": {
         "name": "辽源",
@@ -2173,7 +2715,9 @@
         "name_en": "Liaoyuan",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "5"
+        "tier": "5",
+        "lat": "42.89405500574631",
+        "lng": "125.15042516688747"
     },
     "辽阳": {
         "name": "辽阳",
@@ -2181,7 +2725,9 @@
         "name_en": "Liaoyang",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.27416129045421",
+        "lng": "123.24336640651318"
     },
     "达州": {
         "name": "达州",
@@ -2189,7 +2735,9 @@
         "name_en": "Dazhou",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "31.214307723927455",
+        "lng": "107.47459385897544"
     },
     "运城": {
         "name": "运城",
@@ -2197,7 +2745,9 @@
         "name_en": "Yuncheng",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.03270691290923",
+        "lng": "111.01338945447925"
     },
     "连云港": {
         "name": "连云港",
@@ -2205,7 +2755,9 @@
         "name_en": "Lianyungang",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "3"
+        "tier": "3",
+        "lat": "34.60224952526725",
+        "lng": "119.22862133316607"
     },
     "迪庆": {
         "name": "迪庆",
@@ -2213,7 +2765,9 @@
         "name_en": "Diqing",
         "province": "云南",
         "province_en": "Yunnan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.82518468364326",
+        "lng": "99.70952999013957"
     },
     "通化": {
         "name": "通化",
@@ -2221,7 +2775,9 @@
         "name_en": "Tonghua",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.733815801613424",
+        "lng": "125.94660627598029"
     },
     "通辽": {
         "name": "通辽",
@@ -2229,7 +2785,9 @@
         "name_en": "Tongliao",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "43.657980083916655",
+        "lng": "122.25052178737633"
     },
     "遂宁": {
         "name": "遂宁",
@@ -2237,7 +2795,9 @@
         "name_en": "Suining",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.53909767110912",
+        "lng": "105.5994215306444"
     },
     "遵义": {
         "name": "遵义",
@@ -2245,7 +2805,9 @@
         "name_en": "Zunyi",
         "province": "贵州",
         "province_en": "Guizhou",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.731700878916666",
+        "lng": "106.93342774801829"
     },
     "邢台": {
         "name": "邢台",
@@ -2253,7 +2815,9 @@
         "name_en": "Xingtai",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.07716685005908",
+        "lng": "115.0316624430557"
     },
     "那曲": {
         "name": "那曲",
@@ -2261,7 +2825,9 @@
         "name_en": "Naqu",
         "province": "西藏",
         "province_en": "Xizang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "",
+        "lng": ""
     },
     "邯郸": {
         "name": "邯郸",
@@ -2269,7 +2835,9 @@
         "name_en": "Handan",
         "province": "河北",
         "province_en": "Hebei",
-        "tier": "3"
+        "tier": "3",
+        "lat": "36.631262731204046",
+        "lng": "114.5456282282352"
     },
     "邵阳": {
         "name": "邵阳",
@@ -2277,7 +2845,9 @@
         "name_en": "Shaoyang",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.245270272808565",
+        "lng": "111.474432885931"
     },
     "郑州": {
         "name": "郑州",
@@ -2285,7 +2855,9 @@
         "name_en": "Zhengzhou",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "34.75343885045448",
+        "lng": "113.63141920733915"
     },
     "郴州": {
         "name": "郴州",
@@ -2293,7 +2865,9 @@
         "name_en": "Chenzhou",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "25.776683273601865",
+        "lng": "113.02146049909462"
     },
     "鄂尔多斯": {
         "name": "鄂尔多斯",
@@ -2301,7 +2875,9 @@
         "name_en": "Ordos",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "39.61448231394889",
+        "lng": "109.78744317923602"
     },
     "鄂州": {
         "name": "鄂州",
@@ -2309,7 +2885,9 @@
         "name_en": "Ezhou",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.39657217331699",
+        "lng": "114.90160738827099"
     },
     "酒泉": {
         "name": "酒泉",
@@ -2317,7 +2895,9 @@
         "name_en": "Jiuquan",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "39.73846908071564",
+        "lng": "98.50068521606795"
     },
     "重庆": {
         "name": "重庆",
@@ -2325,7 +2905,9 @@
         "name_en": "Chongqing",
         "province": "重庆",
         "province_en": "Chongqing",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "29.568996245338923",
+        "lng": "106.55843415537664"
     },
     "金华": {
         "name": "金华",
@@ -2333,7 +2915,9 @@
         "name_en": "Jinhua",
         "province": "浙江",
         "province_en": "Zhejiang",
-        "tier": "2"
+        "tier": "2",
+        "lat": "29.084639385513697",
+        "lng": "119.65343619052916"
     },
     "金昌": {
         "name": "金昌",
@@ -2341,7 +2925,9 @@
         "name_en": "Jinchang",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "38.52582009209263",
+        "lng": "102.19460568669837"
     },
     "钦州": {
         "name": "钦州",
@@ -2349,7 +2935,9 @@
         "name_en": "Qinzhou",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "21.986593539484296",
+        "lng": "108.66058016842224"
     },
     "铁岭": {
         "name": "铁岭",
@@ -2357,7 +2945,9 @@
         "name_en": "Tieling",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "5"
+        "tier": "5",
+        "lat": "42.22994799718447",
+        "lng": "123.73236520917769"
     },
     "铜仁": {
         "name": "铜仁",
@@ -2365,7 +2955,9 @@
         "name_en": "Tongren",
         "province": "贵州",
         "province_en": "Guizhou",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.73778645640524",
+        "lng": "109.19643889817665"
     },
     "铜川": {
         "name": "铜川",
@@ -2373,7 +2965,9 @@
         "name_en": "Tongchuan",
         "province": "陕西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "34.902637080502906",
+        "lng": "108.95240424835922"
     },
     "铜陵": {
         "name": "铜陵",
@@ -2381,7 +2975,9 @@
         "name_en": "Tongling",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.95123323991339",
+        "lng": "117.81847679445747"
     },
     "银川": {
         "name": "银川",
@@ -2389,7 +2985,9 @@
         "name_en": "Yinchuan",
         "province": "宁夏",
         "province_en": "Ningxia",
-        "tier": "3"
+        "tier": "3",
+        "lat": "38.492460055509596",
+        "lng": "106.23849358740017"
     },
     "锡林郭勒": {
         "name": "锡林郭勒",
@@ -2397,7 +2995,9 @@
         "name_en": "Linguolexi",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "43.93942266533856",
+        "lng": "116.05439144074573"
     },
     "锦州": {
         "name": "锦州",
@@ -2405,7 +3005,9 @@
         "name_en": "Jinzhou",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.10093149946208",
+        "lng": "121.13259630055518"
     },
     "镇江": {
         "name": "镇江",
@@ -2413,7 +3015,9 @@
         "name_en": "Zhenjiang",
         "province": "江苏",
         "province_en": "Jiangsu",
-        "tier": "3"
+        "tier": "3",
+        "lat": "32.19471592052375",
+        "lng": "119.43048944567383"
     },
     "长春": {
         "name": "长春",
@@ -2421,7 +3025,9 @@
         "name_en": "Changchun",
         "province": "吉林",
         "province_en": "Jilin",
-        "tier": "2"
+        "tier": "2",
+        "lat": "43.82195350104314",
+        "lng": "125.3306020759069"
     },
     "长沙": {
         "name": "长沙",
@@ -2429,7 +3035,9 @@
         "name_en": "Changsha",
         "province": "湖南",
         "province_en": "Hunan",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "28.23488939994364",
+        "lng": "112.94547319535287"
     },
     "长治": {
         "name": "长治",
@@ -2437,7 +3045,9 @@
         "name_en": "Changzhi",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "36.2012683721548",
+        "lng": "113.12255886984902"
     },
     "阜新": {
         "name": "阜新",
@@ -2445,7 +3055,9 @@
         "name_en": "Fuxin",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "5"
+        "tier": "5",
+        "lat": "42.02802190131842",
+        "lng": "121.67640799865809"
     },
     "阜阳": {
         "name": "阜阳",
@@ -2453,7 +3065,9 @@
         "name_en": "Fuyang",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.89606099485221",
+        "lng": "115.82043612491321"
     },
     "防城港": {
         "name": "防城港",
@@ -2461,7 +3075,9 @@
         "name_en": "Fangchenggang",
         "province": "广西",
         "province_en": "Guangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "21.6930052899694",
+        "lng": "108.360418838298"
     },
     "阳江": {
         "name": "阳江",
@@ -2469,7 +3085,9 @@
         "name_en": "Yangjiang",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "21.864339726138933",
+        "lng": "111.98848929181268"
     },
     "阳泉": {
         "name": "阳泉",
@@ -2477,7 +3095,9 @@
         "name_en": "Yangquan",
         "province": "山西",
         "province_en": "Shanxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "37.862360847859385",
+        "lng": "113.58761666287546"
     },
     "阿克苏": {
         "name": "阿克苏",
@@ -2485,7 +3105,9 @@
         "name_en": "Akesu",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "41.17502986007749",
+        "lng": "80.26694348473501"
     },
     "阿勒泰": {
         "name": "阿勒泰",
@@ -2493,7 +3115,9 @@
         "name_en": "Aletai",
         "province": "新疆",
         "province_en": "Xinjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "47.85072787010195",
+        "lng": "88.14792620373527"
     },
     "阿坝": {
         "name": "阿坝",
@@ -2501,7 +3125,9 @@
         "name_en": "Aba",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.9082209186247",
+        "lng": "101.71360970816114"
     },
     "阿拉善盟": {
         "name": "阿拉善盟",
@@ -2509,7 +3135,9 @@
         "name_en": "Alashanmeng",
         "province": "内蒙古",
         "province_en": "Neimenggu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "38.858275883056955",
+        "lng": "105.73537746449358"
     },
     "阿里": {
         "name": "阿里",
@@ -2517,7 +3145,9 @@
         "name_en": "Ali",
         "province": "西藏",
         "province_en": "Xizang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "32.50686601763335",
+        "lng": "80.11277692192645"
     },
     "陇南": {
         "name": "陇南",
@@ -2525,7 +3155,9 @@
         "name_en": "Longnan",
         "province": "甘肃",
         "province_en": "Gansu",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.40662022995126",
+        "lng": "104.92857497071192"
     },
     "随州": {
         "name": "随州",
@@ -2533,7 +3165,9 @@
         "name_en": "Suizhou",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "31.6965167723283",
+        "lng": "113.38945001822157"
     },
     "雅安": {
         "name": "雅安",
@@ -2541,7 +3175,9 @@
         "name_en": "Ya'an",
         "province": "四川",
         "province_en": "Sichuan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.01679254570607",
+        "lng": "103.04954262360451"
     },
     "青岛": {
         "name": "青岛",
@@ -2549,7 +3185,9 @@
         "name_en": "Qingdao",
         "province": "山东",
         "province_en": "Shandong",
-        "tier": "new 1"
+        "tier": "new 1",
+        "lat": "36.072227496663224",
+        "lng": "120.38945519114627"
     },
     "鞍山": {
         "name": "鞍山",
@@ -2557,7 +3195,9 @@
         "name_en": "Anshan",
         "province": "辽宁",
         "province_en": "Liaoning",
-        "tier": "3"
+        "tier": "3",
+        "lat": "41.11505359694933",
+        "lng": "123.00137251399407"
     },
     "韶关": {
         "name": "韶关",
@@ -2565,7 +3205,9 @@
         "name_en": "Shaoguan",
         "province": "广东",
         "province_en": "Guangdong",
-        "tier": "5"
+        "tier": "5",
+        "lat": "24.815881278583017",
+        "lng": "113.60352734562261"
     },
     "马鞍山": {
         "name": "马鞍山",
@@ -2573,7 +3215,9 @@
         "name_en": "Ma'anshan",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "3"
+        "tier": "3",
+        "lat": "31.676265597609103",
+        "lng": "118.5135795794315"
     },
     "驻马店": {
         "name": "驻马店",
@@ -2581,7 +3225,9 @@
         "name_en": "Zhumadian",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "33.01784241674367",
+        "lng": "114.02847078173271"
     },
     "鸡西": {
         "name": "鸡西",
@@ -2589,7 +3235,9 @@
         "name_en": "Jixi",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "45.300872317823895",
+        "lng": "130.97561865876668"
     },
     "鹤壁": {
         "name": "鹤壁",
@@ -2597,7 +3245,9 @@
         "name_en": "Hebi",
         "province": "河南",
         "province_en": "Henan",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.7523574114",
+        "lng": "114.30359364247649"
     },
     "鹤岗": {
         "name": "鹤岗",
@@ -2605,7 +3255,9 @@
         "name_en": "Hegang",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "47.35605615768509",
+        "lng": "130.3044328986694"
     },
     "鹰潭": {
         "name": "鹰潭",
@@ -2613,7 +3265,9 @@
         "name_en": "Yingtan",
         "province": "江西",
         "province_en": "Jiangxi",
-        "tier": "5"
+        "tier": "5",
+        "lat": "28.265787063191418",
+        "lng": "117.0755754270272"
     },
     "黄冈": {
         "name": "黄冈",
@@ -2621,7 +3275,9 @@
         "name_en": "Huanggang",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.4593588576181",
+        "lng": "114.87849048410779"
     },
     "黄南": {
         "name": "黄南",
@@ -2629,7 +3285,9 @@
         "name_en": "Huangnan",
         "province": "青海",
         "province_en": "Qinghai",
-        "tier": "5"
+        "tier": "5",
+        "lat": "35.525804586515534",
+        "lng": "102.02242827807585"
     },
     "黄山": {
         "name": "黄山",
@@ -2637,7 +3295,9 @@
         "name_en": "Huangshan",
         "province": "安徽",
         "province_en": "Anhui",
-        "tier": "5"
+        "tier": "5",
+        "lat": "29.721889786591692",
+        "lng": "118.34543725314781"
     },
     "黄石": {
         "name": "黄石",
@@ -2645,7 +3305,9 @@
         "name_en": "Huangshi",
         "province": "湖北",
         "province_en": "Hubei",
-        "tier": "5"
+        "tier": "5",
+        "lat": "30.205207848941598",
+        "lng": "115.04553290894361"
     },
     "黑河": {
         "name": "黑河",
@@ -2653,7 +3315,9 @@
         "name_en": "Heihe",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "5"
+        "tier": "5",
+        "lat": "50.25127231175015",
+        "lng": "127.53548988621854"
     },
     "黔东南": {
         "name": "黔东南",
@@ -2661,7 +3325,9 @@
         "name_en": "Qiandongnan",
         "province": "贵州",
         "province_en": "Guizhou",
-        "tier": "5"
+        "tier": "5",
+        "lat": "26.58970296982603",
+        "lng": "107.9894462407788"
     },
     "黔南": {
         "name": "黔南",
@@ -2669,7 +3335,9 @@
         "name_en": "Qiannan",
         "province": "贵州",
         "province_en": "guizhou",
-        "tier": "5"
+        "tier": "5",
+        "lat": "26.260616196073833",
+        "lng": "107.5284027057371"
     },
     "黔西南": {
         "name": "黔西南",
@@ -2677,7 +3345,9 @@
         "name_en": "Qianxinan",
         "province": "贵州",
         "province_en": "Guizhou",
-        "tier": "5"
+        "tier": "5",
+        "lat": "27.014344747084042",
+        "lng": "106.03857397725803"
     },
     "齐齐哈尔": {
         "name": "齐齐哈尔",
@@ -2685,7 +3355,9 @@
         "name_en": "Qiqihar",
         "province": "黑龙江",
         "province_en": "Heilongjiang",
-        "tier": "3"
+        "tier": "3",
+        "lat": "47.3599771860153",
+        "lng": "123.92457086841536"
     },
     "龙岩": {
         "name": "龙岩",
@@ -2693,6 +3365,8 @@
         "name_en": "Longyan",
         "province": "福建",
         "province_en": "Fujian",
-        "tier": "3"
+        "tier": "3",
+        "lat": "25.081219844871676",
+        "lng": "117.02344756677536"
     }
 }
